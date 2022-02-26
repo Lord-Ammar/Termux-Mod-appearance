@@ -1,3 +1,8 @@
+#Yang Ini Kalo Mau Lu Decode Terserah
+#soalnya Ini Cuma Tampilan Awokaowk
+#Belajar Yang Bener Brow Biar Bisa Jadi Pro
+#
+#[•] Semoga Berhasil
 import os,sys,time,requests
 os.system("clear")
 IP = requests.get('https://api.ipify.org').text
